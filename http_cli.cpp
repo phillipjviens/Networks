@@ -1,5 +1,5 @@
 #include <sys/types.h>
-#include <sys/sockets.h>
+#include <winsock2.h>
 #include <netdb.j>
 #include <stio.h>
 #include <stdlib.h>
